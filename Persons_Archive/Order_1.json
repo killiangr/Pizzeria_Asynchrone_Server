@@ -1,0 +1,29 @@
+{
+    "Pizzas": [
+      {
+        "size": 1,
+        "Pizza_Type": [
+          1,
+          2,
+          3
+        ],
+        "Add_On": [
+          2,
+          5
+        ]
+      },
+      {
+        "size": 3,
+        "Pizza_Type": [
+          5
+        ]
+      }
+    ],
+    "Price": 0,
+    "Status": 5,
+    "Order_Time": "2022-10-12T00:00:00",
+    "Prepared_Time": "2022-10-12T01:00:00",
+    "In_Delivery_Time": "2022-10-12T02:00:00",
+    "Delivered_Time": "2022-10-12T02:30:00",
+    "Successful_Time": "2022-10-12T03:00:00"
+  }

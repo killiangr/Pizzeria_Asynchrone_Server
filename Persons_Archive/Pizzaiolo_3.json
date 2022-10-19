@@ -1,0 +1,13 @@
+{
+    "Name": "Killian",
+    "Surname": "Graindorge",
+    "Address": {
+        "City": "Paris",
+        "Number": -597,
+        "Street": "I_dunno",
+        "Zip_Code": -5456
+    },
+    "e-mail": "KillianGraindorge@gmail.com",
+    "type": 3,
+    "Phone": 1020304050
+  }

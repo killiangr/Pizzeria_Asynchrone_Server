@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIasgHvsppxQxdXEr9ceezZo0oBZ3Cwiv8fh++Phfgr+a3qW3KtBrr2KMnMPboUDIoSTVKjkTDZt1EmrsO7tsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiba\\Desktop\\Travail\\M1\\INTEGRATION_DE_SYSTEME\\APPLICATIONS\\PROJECT\\Pizza_Time\\Pizza_Time.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiba\\.nuget\\packages\\amqpnetlite\\2.4.5\\amqpnetlite.2.4.5.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\amqpnetlite.core\\2.4.5\\amqpnetlite.core.2.4.5.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\artemisnetclient\\2.10.1\\artemisnetclient.2.10.1.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\nito.asyncex.coordination.5.1.0.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\nito.asyncex.tasks.5.1.0.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\nito.collections.deque\\1.1.0\\nito.collections.deque.1.1.0.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\nito.disposables\\2.2.0\\nito.disposables.2.2.0.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\thiba\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Baptiste",
+    "Surname": "Billy_Gagnaire",
+    "Address": {
+        "City": "Paris",
+        "Number": 57,
+        "Street": "Charles_De_Gaulle",
+        "Zip_Code": 75016
+    },
+    "e-mail": "Baptiste.Billy_Gagnaire@gmail.com",
+    "type": 2,
+    "Phone": 1020304050,
+    "deliveries_Made": 0,
+    "successful_Deliveries": 0
+  }
